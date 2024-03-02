@@ -1,0 +1,7 @@
+:root{--color:#0096ff;}*{margin:0;padding:0;box-sizing:border-box;}
+body{background:#f5f6fa;}#navbar{background:var(--color);height:2.2rem;}
+#navbar li{list-style:none;}#navbar ul{float:right;}
+#navbar a{text-decoration:none;color:white;position:relative;top:8.2px;padding:1em;}
+#header{text-align:center;padding:19px;font-size:33px;}
+#header a{text-decoration:none;border:1px solid var(--color);padding:2px;background:var(--color);
+position:relative;top:3px;right:15px;color:white;margin-right:5px;}

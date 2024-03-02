@@ -1,4 +1,3 @@
 # OceanWebTurk CDN Web Site
 
-
-<h1>Hello World</h1>
+> CDN PREFIX URL: https://cdn.jsdelivr.net/gh/oceanwebturk/cdn/
