@@ -1,0 +1,15 @@
+{
+  "name": "oceanwebturk-cdn",
+  "version": "1.0.0",
+  "description": "OceanWebTurk CDN",
+  "keywords": [
+    "cdn",
+    "oceanwebturk",
+    "framework"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oceanwebturk/cdn/issues"
+  },
+  "homepage": "https://github.com/oceanwebturk/cdn#readme"
+}
